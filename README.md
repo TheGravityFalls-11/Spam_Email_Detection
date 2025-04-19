@@ -31,15 +31,17 @@ The dataset contains two columns:
 
 ---
 
-##📦 Dependencies
+## 📦 Dependencies
+
 pip install pandas scikit-learn
 
 ---
 
-##📌 Conclusion
+## 📌 Conclusion
 This project demonstrates how to classify emails as spam or ham using a simple and powerful Naive Bayes approach. With a proper dataset and text preprocessing, it achieves high accuracy and can be integrated into real-world applications like spam filters.
 
 ---
-
-##📃 License
+## 📃 License
 This project is open-source and free to use under the MIT License.
+
+---
